@@ -1,4 +1,4 @@
-🚀 DevXora Portfolio Guide  
+🚀 TRuslan Portfolio Guide  
 
 > A complete step-by-step guide to run and customize your Next-js portfolio. For beginners — no coding required.
 
@@ -9,7 +9,7 @@ Before starting, make sure you have:
 
 ✅ Step 2: Set Up the Project (ZIP Version)  
 1. Download and extract the ZIP file  
-2. Rename the folder if you want (e.g., devxora-portfolio)  
+2. Rename the folder if you want (e.g., TRuslan-portfolio)  
 3. Open the folder in Visual Studio Code  
 4. In VS Code, open a terminal: Terminal → New Terminal  
 5. Run this command to install all required packages:  
@@ -38,7 +38,7 @@ export const navItems = [
 Edit your intro and name in:  
 📂 /components/Hero.tsx  
 
-<p>Hi! I&apos;m Huzaif, a Full-Stack Developer.</p>
+<p>Hi! I&apos; TRuslan, a Full-Stack Developer.</p>
 
 
 📧 Update Contact Email in About Section  
@@ -46,7 +46,7 @@ To change the contact email shown and copied:
 📂 /components/ui/BentoGrid.tsx  
 
 Replace this:  
- const text = "dev.huzaif@gmil.com";  line.no - 55 replace this email to yours
+ const text = "ruslontoraboyev0@gmail.com";  line.no - 55 replace this email to yours
 
 And also this is for changing clipboard email:  
 navigator.clipboard.writeText('your email');  
