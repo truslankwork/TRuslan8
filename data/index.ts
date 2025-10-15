@@ -199,14 +199,17 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/kwork.svg", // Kwork logo
+    link: "https://kwork.ru/user/TRuslanDEV",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/whatsapp.svg", // WhatsApp icon
+    link: "https://wa.me/998931225324?text=Hello%20Ruslan,%20I%20would%20like%20to%20get%20in%20touch%20with%20you",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/telegram.svg", // Telegram logo
+    link: "https://t.me/TRuslon",
   },
 ];
