@@ -108,21 +108,21 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Working with Huzaif was a seamless experience. His expertise and creativity turned my ideas into reality with precision and style. Highly recommended for anyone looking to build something impactful.",
+      "Working with TRuslan was a seamless experience. His expertise and creativity turned my ideas into reality with precision and style. Highly recommended for anyone looking to build something impactful.",
     name: "Abdul Rahman",
     image: "/ar.webp",
     title: "Founder of JustBuyz Ecommerce",
   },
   {
     quote:
-      "Huzaif’s dedication and attention to detail really impressed me. The project was delivered on time with exceptional quality. He’s truly passionate about development and it shows in his work.",
+      "TRuslan’s dedication and attention to detail really impressed me. The project was delivered on time with exceptional quality. He’s truly passionate about development and it shows in his work.",
     name: "Mohammad Mustaqeem",
     image: "/mm.webp",
     title: "CEO of TechSolutions",
   },
   {
     quote:
-      "From start to finish, Huzaif ensured clear communication and delivered beyond expectations. His ability to merge design with functionality makes him stand out as a developer.",
+      "From start to finish, TRuslan ensured clear communication and delivered beyond expectations. His ability to merge design with functionality makes him stand out as a developer.",
     name: "Suleman Khan",
     image:"/sk.webp",
     title: "Director at Innovatech",
