@@ -25,7 +25,7 @@ const Footer = () => {
           achieve your goals.
         </p>
         <a
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.huzaif@gmail.com"
+          href="https://wa.me/998931225324"
           target="_blank"
           rel="noreferrer"
         >
